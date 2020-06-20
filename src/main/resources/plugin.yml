@@ -1,0 +1,6 @@
+name: EventAids
+main: com.github.Viduality.EventAids.EventAids
+version: '${minecraft.plugin.version}'
+author: Viduality
+api-version: '1.15'
+depend: [WorldGuard]
